@@ -107,7 +107,7 @@ H --> I[Potential Origin IP Found]
 ### Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/GetReal-IP.git
+git clone https://github.com/sayhellotohacker/GetReal-IP.git
 
 cd GetReal-IP
 ```
